@@ -5,7 +5,7 @@
 [![Clippy](https://github.com/nogibjj/week6-rust-jk499/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/week6-rust-jk499/actions/workflows/lint.yml)
 
 
-# Reverse String.
+# Guessing Number.
 
 **Developer:** Jaya Khan 
 
