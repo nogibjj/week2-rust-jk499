@@ -6,3 +6,4 @@ authors = ["Jaya <jk499@duke.edu>"]
 
 
 [dependencies]
+rand = "0.8.4"

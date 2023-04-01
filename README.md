@@ -10,7 +10,7 @@
 **Developer:** Jaya Khan 
 
 ## Abstract
-This program takes an input text from user and then reverses the string.
+This Rust program is guessing game. It starts by generating a random secret number between 1 and 100. It then enters a loop where it prompts the user to input a guess. If the user's guess is less than the secret number, the program prints "Too small!". If the user's guess is greater than the secret number, the program prints "Too big!". If the user's guess is equal to the secret number, the program prints "You win!" and exits the loop.
 
 
 ## Requirements
